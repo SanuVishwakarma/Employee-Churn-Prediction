@@ -1,1 +1,1 @@
-# Employee-Churn-Prediction
+# Employe Churn Prediction
